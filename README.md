@@ -14,7 +14,9 @@ En este apartado hicimos uso de los siguientes recursos:
 - 😄 Uso de GitHub Pages
 - ⚡ Uso de la documentación
 
-![](Arduino.png), ![](Buzzer2.png), ![](Stepper Motor2.png)
+![](Arduino.png)
+![](Buzzer2.png)
+![](Stepper Motor2.png)
 
 ![](Buzzer.png)
 
