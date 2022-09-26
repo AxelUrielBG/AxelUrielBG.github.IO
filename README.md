@@ -46,7 +46,6 @@ Conecte el pin 1 del zumbador al pin Arduino GND y el pin 2 del zumbador al pin 
 ![](ExampleArduino1.PNG)
 
 Simon game - Un juego de memoria con 4 pulsadores
-
 https://wokwi.com/arduino/libraries/demo/simon-game
 
 ![](Bipolar StepperMotor.png)
@@ -84,5 +83,4 @@ El motor paso a paso se mueve 1,8 grados por paso (200 pasos por revolución). E
 ![](Arduino.PNG)
 
 Motor paso a paso utilizando la biblioteca Arduino Stepper
-
 https://docs.wokwi.com/parts/wokwi-stepper-motor
