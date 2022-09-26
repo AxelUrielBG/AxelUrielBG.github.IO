@@ -15,7 +15,9 @@ En este apartado hicimos uso de los siguientes recursos:
 - ⚡ Uso de la documentación
 
 ![](Arduino.png)
+
 ![](Buzzer2.png)
+
 ![](Stepper Motor2.png)
 
 ![](Buzzer.png)
@@ -49,6 +51,7 @@ Conecte el pin 1 del zumbador al pin Arduino GND y el pin 2 del zumbador al pin 
 Simon game - Un juego de memoria con 4 pulsadores
 
 ![](Bipolar StepperMotor.png)
+
 ¿Que es? Un motor paso a paso bipolar
 
 Nombre de Pines
