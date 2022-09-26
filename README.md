@@ -46,6 +46,7 @@ Conecte el pin 1 del zumbador al pin Arduino GND y el pin 2 del zumbador al pin 
 ![](ExampleArduino1.PNG)
 
 Simon game - Un juego de memoria con 4 pulsadores
+
 https://wokwi.com/arduino/libraries/demo/simon-game
 
 ![](Bipolar StepperMotor.png)
