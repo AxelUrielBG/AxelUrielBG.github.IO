@@ -19,7 +19,7 @@ En este apartado hicimos uso de los siguientes recursos:
 ## ¿Que es un Buzzer?
 ### Un zumbador piezoeléctrico
 
-![](Buzzer2.png)
+![](Buzzer2.PNG)
 
 ### Nombre de Pines
 | Nombre |        Descripción       |
@@ -43,7 +43,7 @@ Utilice el modo "preciso" cuando necesite reproducir sonidos complejos. Reproduc
 ### Ejemplo de Arduino
 Conecte el pin 1 del zumbador al pin Arduino GND y el pin 2 del zumbador al pin 8 de Arduino. Luego use la tone() función para reproducir un sonido:
 
-![](ExampleArduino1.png)
+![](ExampleArduino1.PNG)
 
 Simon game - Un juego de memoria con 4 pulsadores
 
@@ -79,6 +79,6 @@ El motor paso a paso se mueve 1,8 grados por paso (200 pasos por revolución). E
 
 ### Ejemplo de Arduino
 
-![](Arduino.png)
+![](Arduino.PNG)
 
 Motor paso a paso utilizando la biblioteca Arduino Stepper
