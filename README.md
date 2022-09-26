@@ -14,15 +14,11 @@ En este apartado hicimos uso de los siguientes recursos:
 - 😄 Uso de GitHub Pages
 - ⚡ Uso de la documentación
 
-![](Arduino.png)
-
-![](Buzzer2.png)
-
-![](Stepper Motor2.png)
-
 ![](Buzzer.png)
 
 ¿Que es un Buzzer? Un zumbador piezoeléctrico
+
+![](Buzzer2.png)
 
 Nombre de Pines
 | Nombre |        Descripción       |
@@ -54,6 +50,8 @@ Simon game - Un juego de memoria con 4 pulsadores
 
 ¿Que es? Un motor paso a paso bipolar
 
+![](Stepper Motor2.png)
+
 Nombre de Pines
 | Nombre |       Descripción       |
 |:------:|:-----------------------:|
@@ -78,5 +76,8 @@ Comportamiento en la simulación
 El motor paso a paso se mueve 1,8 grados por paso (200 pasos por revolución). El motor también admite medios pasos (0,9 grados por paso/400 pasos por revolución). Incluso puede usar micropasos más pequeños (por ejemplo, 1/4 o 1/8 de paso), pero el motor simulado solo muestra el ángulo con una resolución de medio paso. Para obtener más información, consulte la tabla de configuración de micropasos A4988 .
 
 Ejemplo de Arduino
+
+![](Arduino.png)
+
 Motor paso a paso utilizando la biblioteca Arduino Stepper
 
