@@ -22,16 +22,16 @@ En este apartado hicimos uso de los siguientes recursos:
 ![](Buzzer2.PNG)
 
 ### Nombre de Pines
-| Nombre |        Descripción       |
-|:------:|:------------------------:|
-| 1      | Clavija negativa (negra) |
-| 2      | Clavija positiva (roja)  |
+| Nombre 	| Descripción 	|
+|:---:	|:---:	|
+| 1 	| Clavija negativa (negra) 	|
+| 2 	| Clavija positiva (roja) 	|
 
 ### Atributos
-|  Nombre |                        Descripción                       | Valor por defecto |
-|:-------:|:--------------------------------------------------------:|:-----------------:|
-| modo    | Modo de funcionamiento del zumbador: "suave" o "preciso" | "suave"           |
-| volumen | Volumen (sonoridad) del sonido, entre "0.01" y "1.0"     | "1.0"             |
+| Nombre 	| Descripción 	| Valor por defecto 	|
+|:---:	|:---:	|:---:	|
+| modo 	| Modo de funcionamiento del zumbador: "suave" o "preciso" 	| "suave" 	|
+| volumen 	| Volumen (sonoridad) del sonido, entre "0.01" y "1.0" 	| "1.0" 	|
 
 ### Modos de Operación
 El zumbador puede funcionar en dos modos: "suave" (predeterminado) y "preciso".
@@ -55,19 +55,19 @@ Simon game - Un juego de memoria con 4 pulsadores
 ![](Stepper Motor2.png)
 
 ### Nombre de Pines
-| Nombre |       Descripción       |
-|:------:|:-----------------------:|
-| A-     | Bobina A señal negativa |
-| A+     | Bobina A señal positiva |
-| B+     | Bobina B señal positiva |
-| B-     | Bobina B señal negativa |
+| Nombre 	| Descripción 	|
+|:---:	|:---:	|
+| A- 	| Bobina A señal negativa 	|
+| A+ 	| Bobina A señal positiva 	|
+| B+ 	| Bobina B señal positiva 	|
+| B- 	| Bobina B señal negativa 	|
 
 ### Atributos
-|          Nombre         |                                                         Descripción                                                         | Valor por defecto |
-|:-----------------------:|:---------------------------------------------------------------------------------------------------------------------------:|:-----------------:|
-| flecha                  | Muestra una flecha para indicar la posición del paso a paso. Establecer en el color de la flecha, por ejemplo, "naranja"    | ""                |
-| monitor                 | ¿Qué número mostrar en el paso a paso? Valores válidos "pasos", "ángulo" (en grados), "ninguno"                             | "pasos"           |
-| relación de transmisión | La relación de transmisión del motor. configúrelo en "1:1" para 200 pasos/revolución, "2:1" para 400 pasos/revolución, etc. | "1:1"             |
+| Nombre 	| Descripción 	| Valor por defecto 	|
+|:---:	|:---:	|:---:	|
+| flecha 	| Muestra una flecha para indicar la posición del paso a paso. Establecer en el color de la flecha, por ejemplo, "naranja" 	| "" 	|
+| monitor 	| ¿Qué número mostrar en el paso a paso? Valores válidos "pasos", "ángulo" (en grados), "ninguno" 	| "pasos" 	|
+| relación de transmisión 	| La relación de transmisión del motor. configúrelo en "1:1" para 200 pasos/revolución, "2:1" para 400 pasos/revolución, etc. 	| "1:1" 	|
 
 ### Usando el motor
 Cuando usa un motor paso a paso, necesita un chip controlador que pueda suministrar grandes cantidades de corriente a las bobinas del motor. Wokwi es compatible con la placa de controlador común A4988 . También puede conectar el motor paso a paso directamente a su microcontrolador. Wokwi utiliza un motor de simulación digital, por lo que no se tiene en cuenta la corriente de la bobina.
