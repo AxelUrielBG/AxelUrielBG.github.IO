@@ -89,4 +89,4 @@ El motor paso a paso se mueve 1,8 grados por paso (200 pasos por revolución). E
 
 Motor paso a paso utilizando la biblioteca Arduino Stepper
 
-https://docs.wokwi.com/parts/wokwi-stepper-motor
+https://wokwi.com/projects/327324886912467538
